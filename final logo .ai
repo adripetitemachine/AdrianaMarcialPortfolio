@@ -1,0 +1,51 @@
+body{
+	font-family: 'Helvetica';
+    background-color: #FAFAFA;
+}
+
+h1{
+    font-family: 'Atocha', bold;
+    font-size:100px;
+    color:white;
+    
+}
+
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:20px; 
+    color:white;
+}
+
+
+#container{
+    background-color:#F66666;
+
+    width:1000px;
+    margin:0 auto;
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    height:150px;
+    padding:20px;
+
+}
+
+main{
+    background-color: rgb(106, 22, 175);
+    height:400px;
+    text-align:center;
+}
+
+footer{
+    background-color:#2ca4c3;
+    height:150px;
+    color: #f66666;
+}
+
+
+.fab{
+
+    color:white;
+}
